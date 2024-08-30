@@ -95,7 +95,7 @@ body {
 h2{
     border-style:groove;
     padding-top: 120px;
-    background-image: url(/images/whole.jpg );width: 550px;
+    background-image: url(./images/whole.jpg );width: 550px;
     color: white ;
 }
 .border{
